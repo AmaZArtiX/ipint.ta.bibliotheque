@@ -1,0 +1,28 @@
+{
+	"folders": {},
+	"connections": {
+		"derby-16de5de1082-7ef2a97999ad049c": {
+			"provider": "generic",
+			"driver": "derby",
+			"name": "Derby Embedded - bibliotheque",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "/Users/simonbacquet/Documents/Cours/Master/m2-miage/TA/databases/bibliotheque",
+				"url": "jdbc:derby:/Users/simonbacquet/Documents/Cours/Master/m2-miage/TA/databases/bibliotheque",
+				"type": "dev",
+				"handlers": {}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false
+		}
+	}
+}

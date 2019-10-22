@@ -1,0 +1,77 @@
+{
+	"folders": {},
+	"connections": {
+		"derby-16de5de1082-7ef2a97999ad049c": {
+			"provider": "generic",
+			"driver": "derby",
+			"name": "Derby Embedded - bibliotheque",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "/Users/simonbacquet/Documents/Cours/Master/m2-miage/TA/databases/bibliotheque",
+				"url": "jdbc:derby:/Users/simonbacquet/Documents/Cours/Master/m2-miage/TA/databases/bibliotheque",
+				"type": "dev"
+			}
+		},
+		"derby-16de5deb241-10de4bfe6bf2ef1c": {
+			"provider": "generic",
+			"driver": "derby",
+			"name": "Derby Embedded - bibliotheque 2",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "/Users/simonbacquet/Documents/Cours/Master/m2-miage/TA/databases/bibliotheque",
+				"url": "jdbc:derby:/Users/simonbacquet/Documents/Cours/Master/m2-miage/TA/databases/bibliotheque",
+				"type": "dev"
+			}
+		},
+		"derby-16de5e0b925-77edcf8d10529df0": {
+			"provider": "generic",
+			"driver": "derby",
+			"name": "Derby Embedded - bibliotheque 3",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "/Users/simonbacquet/Documents/Cours/Master/m2-miage/TA/databases/bibliotheque",
+				"url": "jdbc:derby:/Users/simonbacquet/Documents/Cours/Master/m2-miage/TA/databases/bibliotheque",
+				"type": "dev"
+			}
+		},
+		"derby-16de5e6f9f2-38ea5ffb9b2fc2df": {
+			"provider": "generic",
+			"driver": "derby",
+			"name": "Derby Embedded - bibliotheque 4",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "/Users/simonbacquet/Documents/Cours/Master/m2-miage/TA/databases/bibliotheque",
+				"url": "jdbc:derby:/Users/simonbacquet/Documents/Cours/Master/m2-miage/TA/databases/bibliotheque",
+				"type": "dev",
+				"handlers": {}
+			}
+		},
+		"derby-16de6037dda-4e1c2bac727797b1": {
+			"provider": "generic",
+			"driver": "derby",
+			"name": "Derby Embedded - bibliotheque 5",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "/Users/simonbacquet/Documents/Cours/Master/m2-miage/TA/databases/bibliotheque",
+				"url": "jdbc:derby:/Users/simonbacquet/Documents/Cours/Master/m2-miage/TA/databases/bibliotheque",
+				"type": "dev",
+				"handlers": {}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false
+		}
+	}
+}
